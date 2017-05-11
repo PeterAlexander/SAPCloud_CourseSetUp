@@ -1,0 +1,31 @@
+
+//WTS
+train-xx/initial
+
+//ZME 
+cp100-xx/Welcome1 
+
+
+
+//ES4
+https://register.sapdevcenter.com/SUPSignForms/
+
+
+
+
+//HCI Tenant
+p1942505455/Welcome1
+
+
+
+
+//HCP
+
+
+//CloudConnector 
+https://wdflbmt7269:8443
+User: Administrator
+password:sap123
+
+
+
