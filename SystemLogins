@@ -6,20 +6,16 @@ train-xx/initial
 cp100-xx/Welcome1 
 
 
-
 //ES4
 https://register.sapdevcenter.com/SUPSignForms/
 
 
-
-
 //HCI Tenant
+https://v0xxx-tmn.avt.eu1.hana.ondemand.com/itspaces
+(replace the xx with your given tenentid e.g 228 or 322)
 p1942505455/Welcome1
-
-
-
-
-//HCP
+P1940483404/Welcome1
+P1940856774/Welcome123
 
 
 //CloudConnector 
