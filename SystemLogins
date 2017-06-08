@@ -13,9 +13,16 @@ https://register.sapdevcenter.com/SUPSignForms/
 //HCI Tenant
 https://v0xxx-tmn.avt.eu1.hana.ondemand.com/itspaces
 (replace the xx with your given tenentid e.g 228 or 322)
+
+//old but may work
 p1942505455/Welcome1
 P1940483404/Welcome1
 P1940856774/Welcome123
+
+//new 
+p1942505455  /  Welcome1
+p1942505458  /  Welcome1
+p1942507846 /  Welcome1
 
 
 //CloudConnector 
